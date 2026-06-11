@@ -9,4 +9,4 @@ brew install codeup
 
 | Formula | 说明 |
 | --- | --- |
-| `codeup` | 阿里云云效 Codeup 命令行工具（[foundralab/codeup-cli](https://github.com/foundralab/codeup-cli)） |
+| `codeup`（cask） | 阿里云云效 Codeup 命令行工具（[foundralab/codeup-cli](https://github.com/foundralab/codeup-cli)） |
