@@ -1,18 +1,12 @@
-# Foundralab Tap
+# foundralab/homebrew-tap
 
-## How do I install these formulae?
+foundralab 的 Homebrew tap。
 
-`brew install foundralab/tap/<formula>`
-
-Or `brew tap foundralab/tap` and then `brew install <formula>`.
-
-Or, in a `brew bundle` `Brewfile`:
-
-```ruby
-tap "foundralab/tap"
-brew "<formula>"
+```bash
+brew tap foundralab/tap
+brew install codeup
 ```
 
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+| Formula | 说明 |
+| --- | --- |
+| `codeup` | 阿里云云效 Codeup 命令行工具（[foundralab/codeup-cli](https://github.com/foundralab/codeup-cli)） |
